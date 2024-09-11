@@ -18,10 +18,10 @@ export default function Hero() {
       <HeroText />
       <div className="mt-10 w-full overflow-hidden">
         <ParallaxText direction={500} baseVelocity={-1}>
-          Frontend Web Developer
+          Attacker 
         </ParallaxText>
         <ParallaxText direction={-500} baseVelocity={1}>
-          Freelance Web Developer
+          Ddosser
         </ParallaxText>
       </div>
       <motion.div
@@ -34,10 +34,10 @@ export default function Hero() {
           Locate
         </p>
         <p className="text-md font-medium text-zinc-200 dark:text-zinc-600">
-          in Bandung
+          in Selangor
         </p>
         <p className="text-md font-medium text-zinc-200 dark:text-zinc-600">
-          West Java, Indonesia
+          Kajang, Malaysia
         </p>
         <DigitalGlobe className="absolute right-3 top-[10%]" />
       </motion.div>
